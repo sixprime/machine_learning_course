@@ -1,4 +1,4 @@
 # Stock Prediction
 
-Stock prediction using *only* regression models.
+Stock prediction notebook using *only* regression models.
 Use at your own risk.

@@ -1,2 +1,0 @@
-jupyterlabs
-scikit-learn
