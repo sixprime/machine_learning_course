@@ -1,1 +1,4 @@
-# machine_learning_course
+# Machine learning course
+
+- Image classification
+- Stock prediction
