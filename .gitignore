@@ -1,4 +1,7 @@
 venv/
 *_env/
+*_venv/
 .vscode/
 *.ipynb_checkpoints/
+input_data/
+.DS_Store
