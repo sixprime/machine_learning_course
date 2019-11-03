@@ -6,3 +6,4 @@
 - [Automated dignosis](https://github.com/sixprime/machine_learning_course/tree/master/automated_diagnosis)
 - [Fashion design generator](https://github.com/sixprime/machine_learning_course/tree/master/fashion_design_generator)
 - [Plant analysis](https://github.com/sixprime/machine_learning_course/tree/master/plant_analysis)
+- [Reinforcement learning](https://github.com/sixprime/machine_learning_course/tree/master/reinforcement_learning)
